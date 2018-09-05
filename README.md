@@ -1,2 +1,2 @@
-# Slot Machine
-During my senior year in high school, I created this slot machine game in C++. Press any key to stop and start the machine.
+# Wheres Waldo 
+During my senior year in high school, I created this wheres waldo game. Click on the screen to find the hidden waldo. 
