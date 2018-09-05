@@ -1,2 +1,2 @@
-# Where-s-Waldo-Game
-During my senior year in high school, I created this game in python. It allows the user to click on the screen and try to find the hidden waldo.
+# Slot Machine
+During my senior year in high school, I created this slot machine game in C++. Press any key to stop and start the machine.
